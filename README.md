@@ -1,4 +1,4 @@
-<h1 align="center"> Págida TravelGram </h1>
+<h1 align="center"> Página TravelGram </h1>
 
 <p align="center">
 Programa exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
